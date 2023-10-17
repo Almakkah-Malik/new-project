@@ -1,0 +1,30 @@
+
+
+/* companies.css */
+
+.co-container{
+          justify-content: space-between;
+          gap: 1rem;
+          }
+          
+        .co-container img{
+          width: 10rem;
+        } 
+
+        @media (max-width: 1199px)
+        {
+        .co-container {
+            flex-direction: column;
+            display: flex;
+            gap: 4rem;
+        }
+      }
+ @media (max-width :991px){
+
+.co-container{
+  justify-content: space-around;
+          gap: 7rem;
+          }
+
+        }
+          

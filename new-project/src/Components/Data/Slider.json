@@ -1,0 +1,70 @@
+[
+          {
+                    "name" : "Aliva Priva Jardin" ,
+                    "price" : "3454" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r4.jpeg"
+ 
+          }
+          ,
+
+          {
+                    "name" : "Asatti Garden City" ,
+                    "price" : "674.500" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r1.png"
+ 
+          }
+          ,
+          {
+                    "name" : "Citralan Puri Serang" ,
+                    "price" : "6785.800" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r7.jpeg"
+ 
+          }
+           ,
+          {
+                    "name" : "Aliva Priva Jardin" ,
+                    "price" : "3454" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r5.jpeg"
+ 
+          }
+          ,
+
+          {
+                    "name" : "Asatti Garden City" ,
+                    "price" : "674.500" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r3.png"
+ 
+          }
+          ,
+          {
+                    "name" : "Citralan Puri Serang" ,
+                    "price" : "6785.800" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r2.png"
+ 
+          }
+          ,
+          {
+                    "name" : "Citralan Puri Serang" ,
+                    "price" : "6785.800" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r4.jpeg"
+ 
+          }
+           ,
+          {
+                    "name" : "Aliva Priva Jardin" ,
+                    "price" : "3454" ,
+                    "detials" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, laboriosam." ,
+                    "image" : "./r7.jpeg"
+ 
+          }
+          
+          
+          
+]
